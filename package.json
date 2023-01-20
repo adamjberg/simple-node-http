@@ -1,5 +1,7 @@
 {
-  "repository": "https://github.com/adamjberg/simple-node-http.git",
+  "repository": {
+    "repository": "https://github.com/adamjberg/simple-node-http.git"
+  },
   "scripts": {
     "start": "node index.js"
   }
